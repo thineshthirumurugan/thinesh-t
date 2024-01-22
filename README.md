@@ -16,3 +16,5 @@ Computer Science Engineering Student
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/> 
+
+![Thinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thineshthirumurugan-r&theme=dark&show_icons=true&&hide=issues,contribs)
