@@ -9,4 +9,4 @@ Computer Science Engineering Student
 - 👨‍💻 Keen on programming
 - 👨‍💻 I'm presently engaged in a project using the MERN stack
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]([thineshtthirumurugan@gmail.com](https://mail.google.com/mail/u/0/#sent?compose=CllgCJTMXvmgtwrZdjCMxWnZDCxFznFKwvGtWPpJMPQbnNntFvZLJScLgBMTCMZVrPXVJkMVllB)https://mail.google.com/mail/u/0/#sent?compose=CllgCJTMXvmgtwrZdjCMxWnZDCxFznFKwvGtWPpJMPQbnNntFvZLJScLgBMTCMZVrPXVJkMVllB)
+<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/#sent?compose=CllgCJTMXvmgtwrZdjCMxWnZDCxFznFKwvGtWPpJMPQbnNntFvZLJScLgBMTCMZVrPXVJkMVllB)
