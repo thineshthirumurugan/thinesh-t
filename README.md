@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Thinesh 
 
 Computer Science Engineering Student
-<img align="right" width="370" height="290" src="[[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1GMVK6BC6DCcwiL6N9IwBT&ust=1705987564621000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCNCOibTX74MDFQAAAAAdAAAAABAR](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif](https://pin.it/5NNYpbiHn)https://pin.it/5NNYpbiHn](https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif)https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🔭 Here's my [Portfolio](http://google.com)
 - 🌱 I'm presently acquiring skills in the MERN Stack
