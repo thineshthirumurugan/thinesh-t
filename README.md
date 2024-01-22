@@ -16,4 +16,6 @@ Computer Science Engineering Student
 
 ### IDE and Tools I Use
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Thineshthirumurugan?theme=dark&font=Marcellus&ext=activity)
+
 [![Thinesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thineshthirumurugan&bg_color=000000&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
