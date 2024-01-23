@@ -3,7 +3,7 @@
 Computer Science Engineering Student
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 🔭 Here's my [Portfolio](http://google.com)
+- 🔭 Here's my [Portfolio](portfolio)
 - 🌱 I'm presently acquiring skills in the MERN Stack
 - 🧑‍🤝‍🧑 I'm seeking opportunities for collaboration in the field of Full-Stack Development
 - 👨‍💻 Keen on programming
