@@ -8,7 +8,7 @@ Computer Science Engineering Student
 - 🧑‍🤝‍🧑 I'm seeking opportunities for collaboration in the field of Full-Stack Development
 - 👨‍💻 Keen on programming
 - 👨‍💻 I'm presently engaged in a project using the MERN stack
-- 📫 How to reach me :
+- 📫 How to reach me : 
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thineshtthirumurugan/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/#sent?compose=CllgCJTMXvmgtwrZdjCMxWnZDCxFznFKwvGtWPpJMPQbnNntFvZLJScLgBMTCMZVrPXVJkMVllB)  
 
 ### I code in
