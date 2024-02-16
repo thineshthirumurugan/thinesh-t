@@ -9,9 +9,7 @@ Computer Science Engineering Student
 - 👨‍💻 Keen on programming
 - 👨‍💻 I'm presently engaged in a project using the MERN stack
 - 📫 How to reach me : 
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" onclick="window.open('https://www.linkedin.com/in/thineshtthirumurugan/')" style="cursor:pointer;" />
-](https://www.linkedin.com/in/thineshtthirumurugan/) 
- [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/#sent?compose=CllgCJTMXvmgtwrZdjCMxWnZDCxFznFKwvGtWPpJMPQbnNntFvZLJScLgBMTCMZVrPXVJkMVllB)  
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thineshtthirumurugan/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/u/0/#sent?compose=CllgCJTMXvmgtwrZdjCMxWnZDCxFznFKwvGtWPpJMPQbnNntFvZLJScLgBMTCMZVrPXVJkMVllB)  
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/> <img height="50" width="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> <img height="50" width="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img height="50" width="50" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img height="50" width="50" src="https://img.icons8.com/color/48/javascript.png" alt="javascript"/> <img width="50" height="50" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/> <img height="50" width="50" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/> <img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/> <img width="50" height="50" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
